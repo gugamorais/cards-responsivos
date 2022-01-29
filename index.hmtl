@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>cards responsivos</title>
+    <link rel="stylesheet" href="style.css" type="text/css">
+</head>
+
+<body class="colors">
+    <main>
+        <section class="contact">
+            <img src="./Chat.png" height="150px" width="150px" alt="chat">
+            <h2>contact us</h2>
+            <p class="paragraphe">Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+            <button> learn more</button>
+        </section>
+        <section class="shop">
+            <img src="./Bag.png" height="150px" width="150px" alt="bag">
+            <h2>shop here</h2>
+            <p class="paragraphe">Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+            <button id="middle"> learn more</button>
+        </section>
+        <section class="about">
+            <img src="./Play.png" height="150px" width="150px" alt="Play">
+            <h2>about us</h2>
+            <p class="paragraphe">Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+            <button> learn more</button>
+        </section>
+    </main>
+
+</body>
+
+</html>
