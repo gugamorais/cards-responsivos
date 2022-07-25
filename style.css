@@ -78,20 +78,17 @@ button {
 }
 
 @media screen and (max-width: 800px) {
-  main {
-    flex-direction: column;
-    display: flex;
-    align-items: center;
-    padding: 0;
-  }
-
-  .contact {
-    margin-top: 20px;
-  }
+  
+   main {
+      padding: 20px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-direction: column;
+    }
+ 
   .shop {
     margin: 20px;
   }
-  .about {
-    margin-bottom: 20px;
-  }
+  
 }
